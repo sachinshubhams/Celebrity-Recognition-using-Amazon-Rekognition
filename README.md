@@ -1,6 +1,6 @@
 # Celebrity-Recognition-using-Amazon-Rekognition
 
-Problem: To analyze the images with Celebrity Recognition API of Amazon Recognition.\
+Problem: To analyze the images with Celebrity Recognition API of Amazon Recognition.
 
 Amazon Rekognition makes it easy to add image and video analysis to your applications. You
 just provide an image or video to the Amazon Rekognition API, and the service can identify
